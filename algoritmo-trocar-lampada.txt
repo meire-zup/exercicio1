@@ -1,0 +1,10 @@
+Pegar uma lâmpada nova
+Desligar o interruptor de energia
+Colocar uma escada embaixo para alcançar a lâmpada antiga
+ubir na escada levando a lâmpada nova
+Girar a lâmpada antiga até que ela seja removida
+Pegar a lâmpada nova e alinhe a lâmpada e gire até se encaixar 
+Descer da escada trazendo a lâmpada antiga
+Ligar o interruptor 
+Verificar se está funcionando 
+Guardar a escada e descartar corretamente a lâmpada antiga
